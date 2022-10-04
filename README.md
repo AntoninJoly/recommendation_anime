@@ -6,5 +6,5 @@ https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 
 ## Approach
 I used a nearestNeighbors method to find similar anime. For example here are the top recommendations for Shingeki no Kyojin.
-![](./assets/example.png)
+![](./assets/example.PNG)
  
